@@ -1,0 +1,14 @@
+.search {
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.search-text {
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+.search-text:focus {
+    border:solid 3px #09f;      
+}
